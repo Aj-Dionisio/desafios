@@ -155,10 +155,7 @@ ul{
     margin-right: 4px;
     border-radius: 4px;
     border: 1px solid rgb(226, 216, 200);
-    
-    
 }
-
  a{
     font-family: 'Lucida Sans';
     color: white;
@@ -168,7 +165,6 @@ ul{
     font-size: 15px;
     align-items: left;
 } 
-
 p#links{
     align-items: right;
     color: white;
