@@ -102,6 +102,13 @@ form{
     width: 50%;
     
 }
+.informacao{
+    border: 1px solid black;
+    display: inline;
+    
+    
+
+}
  .info_foot{
     font-family: Arial;
     color: rgb(220, 92, 44);
